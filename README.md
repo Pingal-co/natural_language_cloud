@@ -1,5 +1,5 @@
 # natural-language-utils
-We are sharing this for educational purposes. This directory contains some helpful natural language utils to create your own cloud-based service for chatbots. The code has been written in the form of self-contained micro services based on nanomsg and contains code on intent inference, deep learning code, entity recognition (person, location, organization, ...), syntax analysis, similarity recommendations using approximate nearest neighbors, conversational AI ...  We have tried covering most important topics. You can create your own AI assistants for a full-fledged ML service.  
+We are sharing this for educational purposes. This directory contains some helpful natural language utils to create your own cloud-based micro AI services, eg. for chatbots. The code has been written in the form of self-contained micro services based on nanomsg and contains code on intent inference, deep learning code, entity recognition (person, location, organization, ...), syntax analysis, similarity recommendations using approximate nearest neighbors, conversational AI ...  
 
 # Cloud-based Nanoapps for testing
 
