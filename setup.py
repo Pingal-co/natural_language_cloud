@@ -2,9 +2,9 @@
 
 from distutils.core import setup
 
-setup(name='pingal-brain',
+setup(name='natural-language-cloud',
       version='1.0.0',
-      description='Pingal nlp brain',
+      description='nlp services',
       author='Pingal Team',
       author_email='help@pingal.ai',
       license='MIT',
